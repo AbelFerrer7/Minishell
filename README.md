@@ -292,7 +292,7 @@ Para `cmd1 | cmd2 | cmd3`:
 Desarrollado como proyecto de **42 Madrid**
 
 - [@ccheerry](https://github.com/ccheerry)
-- [@caarlitoos30](https://github.com/caarlitoos30)
+- [@AbelFerrer7](https://github.com/AbelFerrer7)
 
 ---
 
